@@ -1,0 +1,106 @@
+=========================================================
+                 BACKUP REVIEW NOTE
+=========================================================
+
+Record Type : Legacy Infrastructure
+Review Date : 2025-03-14
+Status      : ARCHIVED
+
+---------------------------------------------------------
+REFERENCE
+---------------------------------------------------------
+
+Deployment:
+
+    BACKUP-999
+
+Maintainer Reference:
+
+    3lliot-009
+
+Service Account:
+
+    svc_legacy_bkp
+
+---------------------------------------------------------
+ACCOUNT CORRELATION
+---------------------------------------------------------
+
+The maintainer reference above was associated with the
+following internal account.
+
+Note: The maintainer reference and account identifier
+are intentionally stored using different naming formats.
+
+    3lli0t-009
+
+Account Type:
+
+    Infrastructure / Platform
+
+Account Status:
+
+    ARCHIVED
+
+The account was historically used for:
+
+    - deployment maintenance
+    - backup verification
+    - infrastructure recovery
+    - legacy system reviews
+
+---------------------------------------------------------
+IMPORTANT
+---------------------------------------------------------
+
+Do not confuse:
+
+    maintainer reference
+    account identifier
+    service account
+
+These represent different records.
+
+The maintainer reference and account identifier have
+been correlated with the archived deployment record.
+
+The service account should not be used as the final
+account identifier.
+
+---------------------------------------------------------
+ARCHIVE TRAIL
+---------------------------------------------------------
+
+Original deployment:
+
+    BACKUP-999
+
+Associated account:
+
+    3lli0t-009
+
+Archive reference:
+
+    MEM-03-14
+
+---------------------------------------------------------
+FINAL VERIFICATION
+---------------------------------------------------------
+
+Before closing the recovery review, verify both:
+
+    01. Original deployment identifier
+    02. Associated internal account
+
+The deployment identifier must match the archived
+deployment record.
+
+The account identifier must match the ownership
+correlation record.
+
+Do not use the service account as the final account
+identifier.
+
+---------------------------------------------------------
+END OF RECORD
+---------------------------------------------------------

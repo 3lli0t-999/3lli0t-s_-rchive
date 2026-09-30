@@ -1,0 +1,28 @@
+=========================================================
+                         TODO
+=========================================================
+
+[✓] Rotate development credentials
+[✓] Remove deprecated test configuration
+[✓] Update deployment documentation
+
+[ ] Review legacy backup configuration
+[ ] Verify old infrastructure ownership
+[ ] Ask 3lli0t about the archived deployment records
+
+---------------------------------------------------------
+
+Reminder:
+
+The old backup environment was maintained separately
+from development.
+
+Check the March records before making changes.
+
+---------------------------------------------------------
+
+Meeting:
+Friday / 16:30
+
+Reviewer:
+cyb3Ph03n1x
