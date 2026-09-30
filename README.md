@@ -29,24 +29,15 @@ The original purpose of this archive is unclear.
 
 ---
 
-## // DIRECTORY
+## // ARCHIVE STATUS
 
-```text
-@rchiv3/
+The repository contains:
 
-│
-├── c0nfigs/
-│   ├── r3c0rd5/
-│   │   └── deployment.md
-│   │
-│   ├── b4ckup.conf
-│   └── developm3nt.conf
-│
-├── 0ld_m1nut3s.txt
-├── t0d0.txt
-│
-├── 3ll0t-s_mem0randums/
-│   ├── b4ckup.txt
-│   └── mem0randum.txt
-│
-└── README.md
+- archived meeting records
+- legacy configuration files
+- deployment documentation
+- internal memorandums
+
+Some references are intentionally indirect.
+
+Investigate the archive and correlate the evidence.
